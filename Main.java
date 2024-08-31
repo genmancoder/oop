@@ -13,5 +13,6 @@ public class Main {
         int id = list[1].getId();
 
         System.out.println(id);
+        System.out.println(p2.getPersonInformation());
     }
 }
